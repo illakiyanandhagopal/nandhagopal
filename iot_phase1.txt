@@ -1,0 +1,25 @@
+
+project definition
+Air pollution is one of environmental issues that cannot be ignored. Inhaling pollutants
+for a long time causes damages in human health. Traditional air quality monitoring methods,
+such as building air quality monitoring stations, are typically expensive. This project is
+suitable for air quality monitoring in real time. Design a tool which will sense quality of air
+and display it in the form of percentage, Sense how much carbon mono-oxide(CO) is present
+in air and display in the form of percentage, Sense the temperature and display it in degree
+celcius
+
+
+objectives
+In the future work, we can modify the system to notify a user about the air quality when it
+reaches beyond when it reaches beyond a permissible level through SMS or APP. Notification,
+furthermore, the sensors in the system can be calibrated more so that we can get more accurate
+and get data for more harmful gases such as Ammonia, oxides of nitrogen, etc. Our work can
+demonstrate vast opportunities to work on the device, on the app and also on the field using
+the device that we have worked with. The device can be used any time efficiently in different
+locations of a city and then research with the achieved data for that particular area in that city.
+The device can be updated with additional sensors that can sense data from the existence of
+other gases such as O2 and H2. These gases will provide the condition of the atmosphere and
+authority can take into further decisions accordingly. The sensors that we have been worked
+with can also be reset according to most recent time update. The android app which we have
+developed for turning on and off the device can be updated with newer features by
+implementing necessary codes
